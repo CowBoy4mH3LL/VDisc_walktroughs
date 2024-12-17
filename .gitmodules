@@ -1,0 +1,6 @@
+[submodule "AFLplusplus"]
+	path = AFLplusplus
+	url = https://github.com/AFLplusplus/AFLplusplus.git
+[submodule "DV_OT_APP"]
+	path = DV_OT_APP
+	url = https://github.com/CowBoy4mH3LL/DV_OT_APP.git
